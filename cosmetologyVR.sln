@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{158D1C00-586B-80B9-BE3E-5BBBFAA1BAB1}") = "cosmetologyVR", "Assembly-CSharp-firstpass.csproj", "{D61EF779-031D-1263-45F7-5AAE182EBC80}"
+EndProject
+Project("{158D1C00-586B-80B9-BE3E-5BBBFAA1BAB1}") = "cosmetologyVR", "Assembly-CSharp.csproj", "{F006536E-09A5-5DA5-8A4F-1BB746084DD8}"
+EndProject
+Project("{158D1C00-586B-80B9-BE3E-5BBBFAA1BAB1}") = "cosmetologyVR", "Assembly-CSharp-Editor.csproj", "{DC226FEC-BF85-5981-8DD2-B5B32FD30A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61EF779-031D-1263-45F7-5AAE182EBC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61EF779-031D-1263-45F7-5AAE182EBC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61EF779-031D-1263-45F7-5AAE182EBC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61EF779-031D-1263-45F7-5AAE182EBC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F006536E-09A5-5DA5-8A4F-1BB746084DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F006536E-09A5-5DA5-8A4F-1BB746084DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F006536E-09A5-5DA5-8A4F-1BB746084DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F006536E-09A5-5DA5-8A4F-1BB746084DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC226FEC-BF85-5981-8DD2-B5B32FD30A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC226FEC-BF85-5981-8DD2-B5B32FD30A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC226FEC-BF85-5981-8DD2-B5B32FD30A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC226FEC-BF85-5981-8DD2-B5B32FD30A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
