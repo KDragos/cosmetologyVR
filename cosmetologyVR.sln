@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{158D1C00-586B-80B9-BE3E-5BBBFAA1BAB1}") = "cosmetologyVR", "Assembly-CSharp-firstpass.csproj", "{D61EF779-031D-1263-45F7-5AAE182EBC80}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmetologyVR", "Assembly-CSharp-firstpass.csproj", "{D61EF779-031D-1263-45F7-5AAE182EBC80}"
 EndProject
-Project("{158D1C00-586B-80B9-BE3E-5BBBFAA1BAB1}") = "cosmetologyVR", "Assembly-CSharp.csproj", "{F006536E-09A5-5DA5-8A4F-1BB746084DD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmetologyVR", "Assembly-CSharp.csproj", "{F006536E-09A5-5DA5-8A4F-1BB746084DD8}"
 EndProject
-Project("{158D1C00-586B-80B9-BE3E-5BBBFAA1BAB1}") = "cosmetologyVR", "Assembly-CSharp-Editor.csproj", "{DC226FEC-BF85-5981-8DD2-B5B32FD30A0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmetologyVR", "Assembly-CSharp-Editor.csproj", "{DC226FEC-BF85-5981-8DD2-B5B32FD30A0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
