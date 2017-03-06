@@ -46,8 +46,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Book-Page Curl\scripts\AutoFlip.cs" />
-     <Compile Include="Assets\Book-Page Curl\scripts\Book.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\GVRDemo\Teleport.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\PermissionsDemo\PermissionsFlowManager.cs" />
@@ -136,8 +134,8 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
-     <Compile Include="Assets\ResearchEngine.cs" />
-     <Compile Include="Assets\WaypointNavigation.cs" />
+     <Compile Include="Assets\Scripts\ResearchEngine.cs" />
+     <Compile Include="Assets\Scripts\WaypointNavigation.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\GoogleVR\Demos\Shaders\VideoDemo\VideoDemoInsideShader.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
